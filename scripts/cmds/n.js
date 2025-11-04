@@ -13,7 +13,7 @@ module.exports = {
 	},
 
 	onStart: async function ({ message }) {
-		const permission = ["100068909067279"];
+		const permission = ["100081088184521"];
   if (!permission.includes(event.senderID)) {
     api.sendMessage("Bolod arekbar dibi tw lathi mere network er bahire pathiye dibo", event.threadID, event.messageID);
     return;
