@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "welcome",
 		version: "1.7",
-		author: "Amit Max ⚡",
+		author: "Amit Max ",
 		category: "events"
 	},
 
