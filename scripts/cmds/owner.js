@@ -3,7 +3,7 @@ module.exports = {
   config: {
     name: "owner",
     version: 2.1,
-    author: "Jani nh ke manger nati cng marche 🙂",
+    author: " 🙂",
     longDescription: "Info about bot and owner",
     category: "Special",
     guide: {
